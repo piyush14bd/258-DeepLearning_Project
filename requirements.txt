@@ -1,0 +1,17 @@
+# Core computation
+torch
+torchvision
+numpy
+scikit-learn
+
+# Plotting (optional but recommended)
+matplotlib
+
+# KAN library
+pykan
+cmake
+ninja
+pybind11
+
+# Utilities
+tqdm
